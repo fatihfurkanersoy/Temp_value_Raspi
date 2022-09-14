@@ -1,7 +1,7 @@
 # -----------------------------------------------------
-# MicroZerr - ZerrGate Raspi
+# Fatih Furkan ERSOY
 # Date of Issue : 29.05.21
-# Version : 2.02
+# Version : 3.0
 # -----------------------------------------------------
 import os
 import time
